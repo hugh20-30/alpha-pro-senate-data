@@ -1,0 +1,16 @@
+{
+  "name": "alpha-pro-house-parser",
+  "version": "1.0.0",
+  "description": "Nightly scraper that downloads U.S. House Clerk PTR PDFs, extracts trades, and outputs house-trades.json for Alpha Tracker Pro to consume.",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "pdf-parse": "^1.1.1"
+  }
+}
