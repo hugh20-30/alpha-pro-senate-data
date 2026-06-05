@@ -1,0 +1,54 @@
+name: Scrape Senate PTRs
+
+# Runs every 6 hours (4 times a day). Also has a manual "Run workflow" button
+# in the Actions tab for when you want to force a fresh scrape.
+on:
+  schedule:
+    - cron: '45 */6 * * *'   # 45 past every 6th hour (offset from house scraper)
+  workflow_dispatch: {}
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history so rebase works cleanly
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper
+        run: npm run scrape
+
+      - name: Commit + push JSON if changed
+        run: |
+          git config user.name  "alpha-pro-scraper[bot]"
+          git config user.email "alpha-pro-scraper[bot]@users.noreply.github.com"
+          git add senate-trades.json
+          if git diff --staged --quiet; then
+            echo "No changes — skipping commit"
+            exit 0
+          fi
+          git commit -m "Update senate-trades.json · $(date -u +'%Y-%m-%dT%H:%MZ') [skip ci]"
+          # Pull-rebase before push to absorb any commits that landed between
+          # checkout and now. Retry up to 3× in case of repeated races.
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
