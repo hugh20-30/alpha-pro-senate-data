@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-06-07T14:33:11.557Z",
+  "generatedAt": "2026-06-07T20:00:54.632Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 214,
+  "filingsProcessed": 215,
   "filingsFailed": 0,
   "filingsPaper": 26,
-  "tradeCount": 798,
+  "tradeCount": 799,
   "trades": [
+    {
+      "name": "James Banks",
+      "ticker": "PTON",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-05",
+      "date": "Jun 5, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/59c6f909-ad10-429d-8a8c-df81b00cf5fd/",
+      "source": "senate-efd"
+    },
     {
       "name": "Sheldon Whitehouse",
       "ticker": "NVDA",
