@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-07-02T20:08:02.882Z",
+  "generatedAt": "2026-07-03T04:31:11.527Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 224,
+  "filingsProcessed": 225,
   "filingsFailed": 0,
   "filingsPaper": 27,
-  "tradeCount": 836,
+  "tradeCount": 837,
   "trades": [
+    {
+      "name": "Gary C Peters",
+      "ticker": "T",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-29",
+      "date": "Jun 29, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/40fbe259-f282-4982-a53f-1c7278d041cd/",
+      "source": "senate-efd"
+    },
     {
       "name": "James Banks",
       "ticker": "PTON",
