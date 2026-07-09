@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-07-08T20:09:08.398Z",
+  "generatedAt": "2026-07-09T04:38:38.122Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 226,
+  "filingsProcessed": 227,
   "filingsFailed": 0,
   "filingsPaper": 27,
-  "tradeCount": 837,
+  "tradeCount": 842,
   "trades": [
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-30",
+      "date": "Jun 30, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/",
+      "source": "senate-efd"
+    },
     {
       "name": "Gary C Peters",
       "ticker": "T",
@@ -16,6 +28,54 @@
       "date": "Jun 29, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/40fbe259-f282-4982-a53f-1c7278d041cd/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "CCI",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-25",
+      "date": "Jun 25, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "COHR",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-25",
+      "date": "Jun 25, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "MU",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-06-25",
+      "date": "Jun 25, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-06-24",
+      "date": "Jun 24, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5d9b1b8e-2ae1-442b-860c-e79b8a701dc6/",
       "source": "senate-efd"
     },
     {
