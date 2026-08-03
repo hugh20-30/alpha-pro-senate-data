@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-03T15:32:06.029Z",
+  "generatedAt": "2026-08-03T20:18:49.858Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 235,
+  "filingsProcessed": 236,
   "filingsFailed": 0,
   "filingsPaper": 28,
-  "tradeCount": 1229,
+  "tradeCount": 1230,
   "trades": [
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "LOW",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-20",
+      "date": "Jul 20, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/96db6e64-f7c3-4483-b0aa-af10ba2bdbbd/",
+      "source": "senate-efd"
+    },
     {
       "name": "Sheldon Whitehouse",
       "ticker": "NVDA",
