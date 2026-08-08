@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-07T19:39:24.998Z",
+  "generatedAt": "2026-08-08T02:35:44.550Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 247,
+  "filingsProcessed": 248,
   "filingsFailed": 0,
   "filingsPaper": 28,
-  "tradeCount": 1338,
+  "tradeCount": 1339,
   "trades": [
+    {
+      "name": "Gary C Peters",
+      "ticker": "O",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-07-23",
+      "date": "Jul 23, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/328a9b36-1205-4117-bdc4-cd7c3ccbcbbc/",
+      "source": "senate-efd"
+    },
     {
       "name": "Shelley M Capito",
       "ticker": "MSFT",
