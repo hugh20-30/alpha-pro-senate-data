@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T07:45:02.261Z",
+  "generatedAt": "2026-08-24T19:18:14.027Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 257,
+  "filingsProcessed": 258,
   "filingsFailed": 0,
   "filingsPaper": 28,
-  "tradeCount": 1350,
+  "tradeCount": 1351,
   "trades": [
     {
       "name": "John Boozman",
@@ -8319,7 +8319,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
@@ -8331,7 +8331,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
@@ -8343,7 +8343,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
@@ -8355,7 +8355,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
@@ -8367,7 +8367,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
@@ -8379,7 +8379,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
@@ -8391,7 +8391,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
@@ -8403,7 +8403,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
@@ -8415,7 +8415,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
@@ -8540,14 +8540,14 @@
     },
     {
       "name": "John Boozman",
-      "ticker": "RNWAX",
+      "ticker": "RNWGX",
       "action": "SELL",
       "value": "$1,001 - $15,000",
       "valueMid": 8001,
       "dateISO": "2025-11-20",
       "date": "Nov 20, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
@@ -8559,12 +8559,24 @@
       "dateISO": "2025-11-20",
       "date": "Nov 20, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
       "name": "John Boozman",
       "ticker": "GEM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-11-20",
+      "date": "Nov 20, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "RNWAX",
       "action": "SELL",
       "value": "$1,001 - $15,000",
       "valueMid": 8001,
@@ -8607,7 +8619,7 @@
       "dateISO": "2025-11-13",
       "date": "Nov 13, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
@@ -8811,7 +8823,7 @@
       "dateISO": "2025-11-06",
       "date": "Nov 6, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
       "source": "senate-efd"
     },
     {
