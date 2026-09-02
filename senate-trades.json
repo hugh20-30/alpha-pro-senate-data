@@ -1,11 +1,59 @@
 {
-  "generatedAt": "2026-09-02T16:53:26.015Z",
+  "generatedAt": "2026-09-02T21:18:47.090Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 260,
+  "filingsProcessed": 261,
   "filingsFailed": 0,
   "filingsPaper": 30,
-  "tradeCount": 1351,
+  "tradeCount": 1355,
   "trades": [
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-08-13",
+      "date": "Aug 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-13",
+      "date": "Aug 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "LRCX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-13",
+      "date": "Aug 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "AMGN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-12",
+      "date": "Aug 12, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+      "source": "senate-efd"
+    },
     {
       "name": "John Boozman",
       "ticker": "CBOE",
