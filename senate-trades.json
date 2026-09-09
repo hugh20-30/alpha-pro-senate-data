@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-09T16:56:54.775Z",
+  "generatedAt": "2026-09-09T21:11:48.796Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 261,
+  "filingsProcessed": 262,
   "filingsFailed": 0,
   "filingsPaper": 30,
-  "tradeCount": 1355,
+  "tradeCount": 1361,
   "trades": [
     {
       "name": "Sheldon Whitehouse",
@@ -52,6 +52,78 @@
       "date": "Aug 12, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Cory A Booker",
+      "ticker": "NVDA",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Cory A Booker",
+      "ticker": "NFLX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Cory A Booker",
+      "ticker": "MCD",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Cory A Booker",
+      "ticker": "AMZN",
+      "action": "SELL",
+      "value": "$100,001 - $250,000",
+      "valueMid": 175001,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Cory A Booker",
+      "ticker": "ALNY",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Cory A Booker",
+      "ticker": "JD",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-08-11",
+      "date": "Aug 11, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
       "source": "senate-efd"
     },
     {
