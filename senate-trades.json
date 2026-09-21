@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-09-21T13:22:30.685Z",
+  "generatedAt": "2026-09-21T22:14:14.716Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 267,
+  "filingsProcessed": 268,
   "filingsFailed": 0,
   "filingsPaper": 30,
-  "tradeCount": 1372,
+  "tradeCount": 1373,
   "trades": [
+    {
+      "name": "A. Mitchell McConnell, Jr.",
+      "ticker": "WFC",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-09-01",
+      "date": "Sep 1, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/",
+      "source": "senate-efd"
+    },
     {
       "name": "John Boozman",
       "ticker": "IVV",
