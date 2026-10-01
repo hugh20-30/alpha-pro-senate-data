@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-10-01T13:55:01.514Z",
+  "generatedAt": "2026-10-01T22:56:04.275Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 270,
+  "filingsProcessed": 271,
   "filingsFailed": 0,
   "filingsPaper": 30,
-  "tradeCount": 1373,
+  "tradeCount": 1376,
   "trades": [
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "JPM",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-09-04",
+      "date": "Sep 4, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "ADI",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-04",
+      "date": "Sep 4, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "V",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-04",
+      "date": "Sep 4, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
+      "source": "senate-efd"
+    },
     {
       "name": "A. Mitchell McConnell, Jr.",
       "ticker": "WFC",
