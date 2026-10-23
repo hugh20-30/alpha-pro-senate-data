@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T21:56:32.137Z",
+  "generatedAt": "2026-10-23T05:23:15.740Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 274,
+  "filingsProcessed": 275,
   "filingsFailed": 0,
   "filingsPaper": 30,
-  "tradeCount": 1393,
+  "tradeCount": 1394,
   "trades": [
     {
       "name": "John Boozman",
@@ -208,6 +208,18 @@
       "date": "Sep 9, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Alan Armstrong",
+      "ticker": "WMB",
+      "action": "SELL",
+      "value": "$250,001 - $500,000",
+      "valueMid": 375001,
+      "dateISO": "2026-09-08",
+      "date": "Sep 8, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6aa5ccb2-ff27-491a-9314-778b9ab37964/",
       "source": "senate-efd"
     },
     {
