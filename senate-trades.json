@@ -1,11 +1,83 @@
 {
-  "generatedAt": "2026-10-23T05:23:15.740Z",
+  "generatedAt": "2026-11-09T22:43:37.669Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 275,
+  "filingsProcessed": 279,
   "filingsFailed": 0,
   "filingsPaper": 30,
-  "tradeCount": 1394,
+  "tradeCount": 1405,
   "trades": [
+    {
+      "name": "Shelley M Capito",
+      "ticker": "ZTS",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-21",
+      "date": "Oct 21, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Shelley M Capito",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-21",
+      "date": "Oct 21, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Shelley M Capito",
+      "ticker": "META",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-21",
+      "date": "Oct 21, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Shelley M Capito",
+      "ticker": "AAPL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-21",
+      "date": "Oct 21, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/a89c0c6b-4c12-4955-98f9-3a54ca52d8a3/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-15",
+      "date": "Oct 15, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "ticker": "AMGN",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-10-15",
+      "date": "Oct 15, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/02b5fe88-e8e1-4ef3-b6b5-6a46b420fb3c/",
+      "source": "senate-efd"
+    },
     {
       "name": "John Boozman",
       "ticker": "APTV",
@@ -55,6 +127,42 @@
       "source": "senate-efd"
     },
     {
+      "name": "Richard Blumenthal",
+      "ticker": "STLN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-23",
+      "date": "Sep 23, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Richard Blumenthal",
+      "ticker": "STLN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-22",
+      "date": "Sep 22, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Richard Blumenthal",
+      "ticker": "STLN",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-09-22",
+      "date": "Sep 22, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/",
+      "source": "senate-efd"
+    },
+    {
       "name": "John Boozman",
       "ticker": "TLH",
       "action": "SELL",
@@ -76,6 +184,30 @@
       "date": "Sep 21, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Richard Blumenthal",
+      "ticker": "STLN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-09-18",
+      "date": "Sep 18, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Richard Blumenthal",
+      "ticker": "STLN",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2026-09-18",
+      "date": "Sep 18, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e67780bf-56e4-46f0-a81e-574a701dd539/",
       "source": "senate-efd"
     },
     {
