@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T20:03:33.080Z",
+  "generatedAt": "2026-11-14T07:02:23.348Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 268,
-  "filingsFailed": 11,
+  "filingsProcessed": 237,
+  "filingsFailed": 42,
   "filingsPaper": 30,
-  "tradeCount": 1353,
+  "tradeCount": 1286,
   "trades": [
     {
       "name": "Shelley M Capito",
@@ -103,30 +103,6 @@
       "source": "senate-efd"
     },
     {
-      "name": "John Boozman",
-      "ticker": "CSCO",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-09-24",
-      "date": "Sep 24, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "O",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-09-24",
-      "date": "Sep 24, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
-      "source": "senate-efd"
-    },
-    {
       "name": "Richard Blumenthal",
       "ticker": "STLN",
       "action": "SELL",
@@ -172,18 +148,6 @@
       "date": "Sep 21, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/7dfdae57-9401-4bf1-9059-85d1e5ee4a84/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "XTWO",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-09-21",
-      "date": "Sep 21, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
       "source": "senate-efd"
     },
     {
@@ -259,90 +223,6 @@
       "source": "senate-efd"
     },
     {
-      "name": "John Boozman",
-      "ticker": "GIGB",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-09-09",
-      "date": "Sep 9, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "JMBS",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-09-09",
-      "date": "Sep 9, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "XFIV",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-09-09",
-      "date": "Sep 9, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "MBB",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-09-09",
-      "date": "Sep 9, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "IEF",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-09-09",
-      "date": "Sep 9, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "TLH",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-09-09",
-      "date": "Sep 9, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "CMBS",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-09-09",
-      "date": "Sep 9, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/94c5f7b9-cdbc-40b4-aeba-de920da58588/",
-      "source": "senate-efd"
-    },
-    {
       "name": "Alan Armstrong",
       "ticker": "WMB",
       "action": "SELL",
@@ -388,330 +268,6 @@
       "date": "Sep 4, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/6bf3b6f7-9e1b-499a-bd5a-990292ce2e72/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "A. Mitchell McConnell, Jr.",
-      "ticker": "WFC",
-      "action": "BUY",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2026-09-01",
-      "date": "Sep 1, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/028aef33-dc0d-44a1-992f-aa35ee42685b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "IVV",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-27",
-      "date": "Aug 27, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "OTIS",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-27",
-      "date": "Aug 27, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Alan Armstrong",
-      "ticker": "WMB",
-      "action": "BUY",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2026-08-20",
-      "date": "Aug 20, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "JNJ",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-20",
-      "date": "Aug 20, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "SPYM",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-20",
-      "date": "Aug 20, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Alan Armstrong",
-      "ticker": "WMB",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-19",
-      "date": "Aug 19, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b999bc0e-3eb0-4ca9-ab07-8e8f2e04b41f/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "WWSYX",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2026-08-19",
-      "date": "Aug 19, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "IJR",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-19",
-      "date": "Aug 19, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "AVUV",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-19",
-      "date": "Aug 19, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "CEG",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-13",
-      "date": "Aug 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6298991b-e48f-4b11-9bbb-dfc94a7e1b32/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "FSLR",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-13",
-      "date": "Aug 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/0632f542-7ac2-46e4-bd9c-603e3673f0cd/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Sheldon Whitehouse",
-      "ticker": "NVDA",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2026-08-13",
-      "date": "Aug 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Sheldon Whitehouse",
-      "ticker": "NVDA",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-13",
-      "date": "Aug 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Sheldon Whitehouse",
-      "ticker": "LRCX",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-13",
-      "date": "Aug 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Sheldon Whitehouse",
-      "ticker": "AMGN",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-12",
-      "date": "Aug 12, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f8d003c0-ca1e-4c39-9d66-632d220180e1/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Cory A Booker",
-      "ticker": "NVDA",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2026-08-11",
-      "date": "Aug 11, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Cory A Booker",
-      "ticker": "NFLX",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-11",
-      "date": "Aug 11, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Cory A Booker",
-      "ticker": "MCD",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2026-08-11",
-      "date": "Aug 11, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Cory A Booker",
-      "ticker": "AMZN",
-      "action": "SELL",
-      "value": "$100,001 - $250,000",
-      "valueMid": 175001,
-      "dateISO": "2026-08-11",
-      "date": "Aug 11, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Cory A Booker",
-      "ticker": "ALNY",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-11",
-      "date": "Aug 11, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Cory A Booker",
-      "ticker": "JD",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-08-11",
-      "date": "Aug 11, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/e5144197-e49c-4f74-bec4-19f1f3124668/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "CBOE",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-31",
-      "date": "Jul 31, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "PYPL",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-30",
-      "date": "Jul 30, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "JPM",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-23",
-      "date": "Jul 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "SPYM",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-23",
-      "date": "Jul 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Gary C Peters",
-      "ticker": "O",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-23",
-      "date": "Jul 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/328a9b36-1205-4117-bdc4-cd7c3ccbcbbc/",
       "source": "senate-efd"
     },
     {
@@ -784,78 +340,6 @@
       "date": "Jul 20, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/96db6e64-f7c3-4483-b0aa-af10ba2bdbbd/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "HD",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-09",
-      "date": "Jul 9, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "APTV",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-09",
-      "date": "Jul 9, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "TRV",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-02",
-      "date": "Jul 2, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/28e465df-caf1-4a98-8ebc-605e1e1ba99b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "EL",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-02",
-      "date": "Jul 2, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "CVX",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-02",
-      "date": "Jul 2, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "SPYM",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-07-02",
-      "date": "Jul 2, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/4184cc9a-78e0-45f3-84f7-642011e6ff98/",
       "source": "senate-efd"
     },
     {
@@ -6548,18 +6032,6 @@
     },
     {
       "name": "John Boozman",
-      "ticker": "AMAT",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-27",
-      "date": "Feb 27, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b56957f-6859-43e2-a447-898509c7f142/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
       "ticker": "NTAP",
       "action": "BUY",
       "value": "$1,001 - $15,000",
@@ -6568,18 +6040,6 @@
       "date": "Feb 27, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/141ea86c-9411-4d3f-ae9b-ce6e5e8065d1/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "PG",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-26",
-      "date": "Feb 26, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b56957f-6859-43e2-a447-898509c7f142/",
       "source": "senate-efd"
     },
     {
@@ -6704,138 +6164,6 @@
     },
     {
       "name": "John Boozman",
-      "ticker": "UNP",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-19",
-      "date": "Feb 19, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b56957f-6859-43e2-a447-898509c7f142/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Angus S King, Jr.",
-      "ticker": "UBER",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-13",
-      "date": "Feb 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Angus S King, Jr.",
-      "ticker": "PYPL",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-13",
-      "date": "Feb 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Angus S King, Jr.",
-      "ticker": "ONON",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-13",
-      "date": "Feb 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Angus S King, Jr.",
-      "ticker": "NFLX",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-13",
-      "date": "Feb 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Angus S King, Jr.",
-      "ticker": "MSFT",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-13",
-      "date": "Feb 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Angus S King, Jr.",
-      "ticker": "META",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-13",
-      "date": "Feb 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Angus S King, Jr.",
-      "ticker": "LLY",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-13",
-      "date": "Feb 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Angus S King, Jr.",
-      "ticker": "BX",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-13",
-      "date": "Feb 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Angus S King, Jr.",
-      "ticker": "ADSK",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-13",
-      "date": "Feb 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "ADBE",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-13",
-      "date": "Feb 13, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b56957f-6859-43e2-a447-898509c7f142/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
       "ticker": "MSFT",
       "action": "BUY",
       "value": "$1,001 - $15,000",
@@ -6880,66 +6208,6 @@
       "date": "Feb 9, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/29828a0d-22e7-4acf-b0e4-2a340947b79e/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "JMBS",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-06",
-      "date": "Feb 6, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b56957f-6859-43e2-a447-898509c7f142/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "SHY",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2026-02-06",
-      "date": "Feb 6, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b56957f-6859-43e2-a447-898509c7f142/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "MBB",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-06",
-      "date": "Feb 6, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b56957f-6859-43e2-a447-898509c7f142/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "AGZ",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-06",
-      "date": "Feb 6, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b56957f-6859-43e2-a447-898509c7f142/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "DBLEX",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-02-06",
-      "date": "Feb 6, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b56957f-6859-43e2-a447-898509c7f142/",
       "source": "senate-efd"
     },
     {
@@ -7243,102 +6511,6 @@
       "source": "senate-efd"
     },
     {
-      "name": "John Boozman",
-      "ticker": "UNP",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-29",
-      "date": "Jan 29, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "OMC",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-29",
-      "date": "Jan 29, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "IVW",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-29",
-      "date": "Jan 29, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "FISV",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-29",
-      "date": "Jan 29, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "PYPL",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-29",
-      "date": "Jan 29, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "ETN",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-29",
-      "date": "Jan 29, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "CVS",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-29",
-      "date": "Jan 29, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "CAT",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-29",
-      "date": "Jan 29, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
       "name": "Shelley M Capito",
       "ticker": "SBUX",
       "action": "SELL",
@@ -7375,30 +6547,6 @@
       "source": "senate-efd"
     },
     {
-      "name": "John Boozman",
-      "ticker": "MU",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-26",
-      "date": "Jan 26, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "DXCM",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-26",
-      "date": "Jan 26, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
       "name": "David H McCormick",
       "ticker": "GS",
       "action": "SELL",
@@ -7408,258 +6556,6 @@
       "date": "Jan 23, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/f977c281-48c1-4de0-af95-6765127f4720/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "MDY",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "IWM",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "SLV",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "PPLT",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "PALL",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "VNQI",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "TPYP",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "LITP",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "RNWGX",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "JMBS",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "IVV",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "CMBS",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "MBB",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "TBLL",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "GIGB",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "GEM",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "FTGC",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "EIPI",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-23",
-      "date": "Jan 23, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "OMC",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-15",
-      "date": "Jan 15, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "V",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-15",
-      "date": "Jan 15, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "AAPL",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-15",
-      "date": "Jan 15, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
       "source": "senate-efd"
     },
     {
@@ -7780,66 +6676,6 @@
       "date": "Jan 9, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/d8dd8a6c-08c7-4432-8e62-5cd0ee9c4a8e/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "MU",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-08",
-      "date": "Jan 8, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "LRCX",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-08",
-      "date": "Jan 8, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/bd886067-927f-48a8-9d43-8ab6fa713f98/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "NFLX",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-08",
-      "date": "Jan 8, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "XOM",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-08",
-      "date": "Jan 8, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "DIS",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2026-01-08",
-      "date": "Jan 8, 2026",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/135ebfe9-099e-4d58-ba46-f739b90d61da/",
       "source": "senate-efd"
     },
     {
@@ -8631,7 +7467,7 @@
       "dateISO": "2025-12-17",
       "date": "Dec 17, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b2bdf363-af39-43c8-ae93-13ed14aa3752/",
       "source": "senate-efd"
     },
     {
@@ -8643,7 +7479,7 @@
       "dateISO": "2025-12-17",
       "date": "Dec 17, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b2bdf363-af39-43c8-ae93-13ed14aa3752/",
       "source": "senate-efd"
     },
     {
@@ -8655,7 +7491,7 @@
       "dateISO": "2025-12-17",
       "date": "Dec 17, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b2bdf363-af39-43c8-ae93-13ed14aa3752/",
       "source": "senate-efd"
     },
     {
@@ -8667,7 +7503,7 @@
       "dateISO": "2025-12-17",
       "date": "Dec 17, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b2bdf363-af39-43c8-ae93-13ed14aa3752/",
       "source": "senate-efd"
     },
     {
@@ -8679,7 +7515,7 @@
       "dateISO": "2025-12-17",
       "date": "Dec 17, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/57cf1745-e3dd-4afd-8685-228153848631/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b2bdf363-af39-43c8-ae93-13ed14aa3752/",
       "source": "senate-efd"
     },
     {
@@ -8967,7 +7803,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -8979,7 +7815,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -8991,7 +7827,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -9003,7 +7839,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -9015,7 +7851,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -9027,7 +7863,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -9039,7 +7875,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -9051,7 +7887,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -9063,7 +7899,7 @@
       "dateISO": "2025-11-21",
       "date": "Nov 21, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -9188,14 +8024,14 @@
     },
     {
       "name": "John Boozman",
-      "ticker": "RNWGX",
+      "ticker": "RNWAX",
       "action": "SELL",
       "value": "$1,001 - $15,000",
       "valueMid": 8001,
       "dateISO": "2025-11-20",
       "date": "Nov 20, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -9207,24 +8043,12 @@
       "dateISO": "2025-11-20",
       "date": "Nov 20, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
       "name": "John Boozman",
       "ticker": "GEM",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-11-20",
-      "date": "Nov 20, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "RNWAX",
       "action": "SELL",
       "value": "$1,001 - $15,000",
       "valueMid": 8001,
@@ -9267,7 +8091,7 @@
       "dateISO": "2025-11-13",
       "date": "Nov 13, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -9471,7 +8295,7 @@
       "dateISO": "2025-11-06",
       "date": "Nov 6, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/51455bcd-4966-4e77-b481-09897ada81ae/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/3a779539-8451-49d2-8419-d3eb72c7922a/",
       "source": "senate-efd"
     },
     {
@@ -9619,30 +8443,6 @@
       "source": "senate-efd"
     },
     {
-      "name": "Shelley M Capito",
-      "ticker": "MSFT",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2025-10-29",
-      "date": "Oct 29, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/defd46d8-f9db-46d6-96f9-77bebce203b6/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Shelley M Capito",
-      "ticker": "IBM",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2025-10-29",
-      "date": "Oct 29, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/defd46d8-f9db-46d6-96f9-77bebce203b6/",
-      "source": "senate-efd"
-    },
-    {
       "name": "Sheldon Whitehouse",
       "ticker": "PGR",
       "action": "SELL",
@@ -9655,66 +8455,6 @@
       "source": "senate-efd"
     },
     {
-      "name": "Shelley M Capito",
-      "ticker": "LLY",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-10-24",
-      "date": "Oct 24, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/defd46d8-f9db-46d6-96f9-77bebce203b6/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Shelley M Capito",
-      "ticker": "MSFT",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-10-22",
-      "date": "Oct 22, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/defd46d8-f9db-46d6-96f9-77bebce203b6/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Shelley M Capito",
-      "ticker": "PAYX",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-10-21",
-      "date": "Oct 21, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/defd46d8-f9db-46d6-96f9-77bebce203b6/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Shelley M Capito",
-      "ticker": "LOW",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-10-21",
-      "date": "Oct 21, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/defd46d8-f9db-46d6-96f9-77bebce203b6/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Shelley M Capito",
-      "ticker": "LOW",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-10-20",
-      "date": "Oct 20, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/defd46d8-f9db-46d6-96f9-77bebce203b6/",
-      "source": "senate-efd"
-    },
-    {
       "name": "Sheldon Whitehouse",
       "ticker": "NVDA",
       "action": "SELL",
@@ -9724,30 +8464,6 @@
       "date": "Oct 20, 2025",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/51a44263-fbff-415d-81fb-abf32d197db9/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Shelley M Capito",
-      "ticker": "COST",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-10-17",
-      "date": "Oct 17, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/defd46d8-f9db-46d6-96f9-77bebce203b6/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Shelley M Capito",
-      "ticker": "CVX",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-10-17",
-      "date": "Oct 17, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/defd46d8-f9db-46d6-96f9-77bebce203b6/",
       "source": "senate-efd"
     },
     {
@@ -9771,7 +8487,7 @@
       "dateISO": "2025-10-07",
       "date": "Oct 7, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/c20df8d3-0160-4a0c-a515-a7b1d2956f87/",
       "source": "senate-efd"
     },
     {
@@ -9783,7 +8499,7 @@
       "dateISO": "2025-10-07",
       "date": "Oct 7, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/c20df8d3-0160-4a0c-a515-a7b1d2956f87/",
       "source": "senate-efd"
     },
     {
@@ -9795,7 +8511,7 @@
       "dateISO": "2025-10-07",
       "date": "Oct 7, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/c20df8d3-0160-4a0c-a515-a7b1d2956f87/",
       "source": "senate-efd"
     },
     {
@@ -9807,7 +8523,7 @@
       "dateISO": "2025-10-07",
       "date": "Oct 7, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/c20df8d3-0160-4a0c-a515-a7b1d2956f87/",
       "source": "senate-efd"
     },
     {
@@ -9819,7 +8535,7 @@
       "dateISO": "2025-10-07",
       "date": "Oct 7, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/c20df8d3-0160-4a0c-a515-a7b1d2956f87/",
       "source": "senate-efd"
     },
     {
@@ -9831,7 +8547,7 @@
       "dateISO": "2025-10-07",
       "date": "Oct 7, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/1a5e6752-653a-4b11-82b6-efd51d466bb6/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/c20df8d3-0160-4a0c-a515-a7b1d2956f87/",
       "source": "senate-efd"
     },
     {
@@ -10015,30 +8731,6 @@
       "source": "senate-efd"
     },
     {
-      "name": "Jerry Moran,",
-      "ticker": "GOOG",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-09-23",
-      "date": "Sep 23, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b83b6502-520b-4403-9777-60f6c2d93bc1/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Jerry Moran,",
-      "ticker": "BRK.B",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-09-23",
-      "date": "Sep 23, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b83b6502-520b-4403-9777-60f6c2d93bc1/",
-      "source": "senate-efd"
-    },
-    {
       "name": "Markwayne Mullin",
       "ticker": "WAB",
       "action": "SELL",
@@ -10072,30 +8764,6 @@
       "date": "Sep 22, 2025",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/e8371653-d5d0-4150-abca-15cb5e6f1b2c/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Shelley M Capito",
-      "ticker": "MSFT",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2025-09-18",
-      "date": "Sep 18, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8bf1954e-5a3d-4258-a57d-cdc73c0ff1f4/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Shelley M Capito",
-      "ticker": "AAPL",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2025-09-18",
-      "date": "Sep 18, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8bf1954e-5a3d-4258-a57d-cdc73c0ff1f4/",
       "source": "senate-efd"
     },
     {
@@ -10384,42 +9052,6 @@
       "date": "Sep 4, 2025",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/12bfb6c8-5dbf-4f2a-994b-c936a0a0a91d/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John W Hickenlooper",
-      "ticker": "INTU",
-      "action": "BUY",
-      "value": "$100,001 - $250,000",
-      "valueMid": 175001,
-      "dateISO": "2025-09-02",
-      "date": "Sep 2, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8a808088-5410-434a-a082-cf86637ba3d7/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John W Hickenlooper",
-      "ticker": "PEP",
-      "action": "SELL",
-      "value": "$100,001 - $250,000",
-      "valueMid": 175001,
-      "dateISO": "2025-09-02",
-      "date": "Sep 2, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8a808088-5410-434a-a082-cf86637ba3d7/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John W Hickenlooper",
-      "ticker": "PANW",
-      "action": "BUY",
-      "value": "$100,001 - $250,000",
-      "valueMid": 175001,
-      "dateISO": "2025-09-02",
-      "date": "Sep 2, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8a808088-5410-434a-a082-cf86637ba3d7/",
       "source": "senate-efd"
     },
     {
@@ -12380,18 +11012,6 @@
     },
     {
       "name": "John Boozman",
-      "ticker": "MSFT",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-04-22",
-      "date": "Apr 22, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
       "ticker": "CRM",
       "action": "SELL",
       "value": "$1,001 - $15,000",
@@ -12404,38 +11024,14 @@
     },
     {
       "name": "John Boozman",
-      "ticker": "UNH",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-04-16",
-      "date": "Apr 16, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "ORCL",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-04-16",
-      "date": "Apr 16, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
       "ticker": "MSFT",
       "action": "BUY",
       "value": "$1,001 - $15,000",
       "valueMid": 8001,
-      "dateISO": "2025-04-16",
-      "date": "Apr 16, 2025",
+      "dateISO": "2025-04-22",
+      "date": "Apr 22, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/59691760-24e4-47a9-bc8d-9888bce9660b/",
       "source": "senate-efd"
     },
     {
@@ -12488,14 +11084,38 @@
     },
     {
       "name": "John Boozman",
-      "ticker": "META",
+      "ticker": "UNH",
       "action": "BUY",
       "value": "$1,001 - $15,000",
       "valueMid": 8001,
-      "dateISO": "2025-04-15",
-      "date": "Apr 15, 2025",
+      "dateISO": "2025-04-16",
+      "date": "Apr 16, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/59691760-24e4-47a9-bc8d-9888bce9660b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "ORCL",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-04-16",
+      "date": "Apr 16, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/59691760-24e4-47a9-bc8d-9888bce9660b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "MSFT",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-04-16",
+      "date": "Apr 16, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/59691760-24e4-47a9-bc8d-9888bce9660b/",
       "source": "senate-efd"
     },
     {
@@ -12507,7 +11127,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12519,7 +11139,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12531,7 +11151,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12543,7 +11163,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12555,7 +11175,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12567,7 +11187,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12579,7 +11199,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12591,7 +11211,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12603,7 +11223,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12615,7 +11235,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12627,7 +11247,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12639,7 +11259,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12651,7 +11271,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12663,7 +11283,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12675,7 +11295,7 @@
       "dateISO": "2025-04-15",
       "date": "Apr 15, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/014817f0-9809-457f-8ac5-048948608e02/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/63e4a2b1-5bfc-43b6-b952-ba54e377212c/",
       "source": "senate-efd"
     },
     {
@@ -12688,6 +11308,18 @@
       "date": "Apr 15, 2025",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/52c9fa8c-a4fa-4f74-9013-0e1076574cfa/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "META",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-04-15",
+      "date": "Apr 15, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/59691760-24e4-47a9-bc8d-9888bce9660b/",
       "source": "senate-efd"
     },
     {
@@ -12896,18 +11528,6 @@
     },
     {
       "name": "John Boozman",
-      "ticker": "HYG",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-04-09",
-      "date": "Apr 9, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
       "ticker": "SHY",
       "action": "SELL",
       "value": "$1,001 - $15,000",
@@ -12916,6 +11536,18 @@
       "date": "Apr 9, 2025",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/52c9fa8c-a4fa-4f74-9013-0e1076574cfa/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "HYG",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-04-09",
+      "date": "Apr 9, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/59691760-24e4-47a9-bc8d-9888bce9660b/",
       "source": "senate-efd"
     },
     {
@@ -12928,30 +11560,6 @@
       "date": "Apr 9, 2025",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/05a652a7-5402-47c6-85ad-04c1c978815b/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "CBOE",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-04-08",
-      "date": "Apr 8, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "John Boozman",
-      "ticker": "AVGO",
-      "action": "BUY",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2025-04-08",
-      "date": "Apr 8, 2025",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f727289a-4d72-4c90-a3ea-63d5bcd23398/",
       "source": "senate-efd"
     },
     {
@@ -12981,6 +11589,18 @@
     {
       "name": "John Boozman",
       "ticker": "FTGC",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-04-08",
+      "date": "Apr 8, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/59691760-24e4-47a9-bc8d-9888bce9660b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "AVGO",
       "action": "BUY",
       "value": "$1,001 - $15,000",
       "valueMid": 8001,
@@ -13231,6 +11851,18 @@
       "source": "senate-efd"
     },
     {
+      "name": "David H McCormick",
+      "ticker": "BITB",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2025-03-20",
+      "date": "Mar 20, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5823084a-1dd6-4707-aee5-53c57af4df8c/",
+      "source": "senate-efd"
+    },
+    {
       "name": "John Boozman",
       "ticker": "IVW",
       "action": "SELL",
@@ -13315,6 +11947,42 @@
       "source": "senate-efd"
     },
     {
+      "name": "David H McCormick",
+      "ticker": "BITB",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-03-13",
+      "date": "Mar 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5823084a-1dd6-4707-aee5-53c57af4df8c/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "David H McCormick",
+      "ticker": "BITB",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-03-11",
+      "date": "Mar 11, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5823084a-1dd6-4707-aee5-53c57af4df8c/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "David H McCormick",
+      "ticker": "BITB",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2025-03-10",
+      "date": "Mar 10, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5823084a-1dd6-4707-aee5-53c57af4df8c/",
+      "source": "senate-efd"
+    },
+    {
       "name": "John Boozman",
       "ticker": "TBLL",
       "action": "BUY",
@@ -13324,6 +11992,126 @@
       "date": "Mar 5, 2025",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/fcacc112-3bf8-4a43-82f6-38d14a699357/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "David H McCormick",
+      "ticker": "BITB",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-03-05",
+      "date": "Mar 5, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5823084a-1dd6-4707-aee5-53c57af4df8c/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "David H McCormick",
+      "ticker": "BITB",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2025-03-03",
+      "date": "Mar 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5823084a-1dd6-4707-aee5-53c57af4df8c/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "A. Mitchell McConnell, Jr.",
+      "ticker": "WFC",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-03-03",
+      "date": "Mar 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/07155f69-e46a-49db-8341-66a2fab74c3c/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "David H McCormick",
+      "ticker": "GS",
+      "action": "SELL",
+      "value": "$1,000,001 - $5,000,000",
+      "valueMid": 3000001,
+      "dateISO": "2025-02-28",
+      "date": "Feb 28, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5823084a-1dd6-4707-aee5-53c57af4df8c/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "David H McCormick",
+      "ticker": "BITB",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-28",
+      "date": "Feb 28, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5823084a-1dd6-4707-aee5-53c57af4df8c/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "David H McCormick",
+      "ticker": "BITB",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2025-02-27",
+      "date": "Feb 27, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/5823084a-1dd6-4707-aee5-53c57af4df8c/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "David H McCormick",
+      "ticker": "BITB",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-26",
+      "date": "Feb 26, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/ac293f74-570f-4c11-9224-79686a7500a9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "IVW",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-26",
+      "date": "Feb 26, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b6f24083-8ed9-4368-b482-3d14155c1e9b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "FTGC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-26",
+      "date": "Feb 26, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b6f24083-8ed9-4368-b482-3d14155c1e9b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "EMLP",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-26",
+      "date": "Feb 26, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b6f24083-8ed9-4368-b482-3d14155c1e9b/",
       "source": "senate-efd"
     },
     {
@@ -13411,6 +12199,18 @@
       "source": "senate-efd"
     },
     {
+      "name": "David H McCormick",
+      "ticker": "BITB",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2025-02-25",
+      "date": "Feb 25, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/ac293f74-570f-4c11-9224-79686a7500a9/",
+      "source": "senate-efd"
+    },
+    {
       "name": "John Boozman",
       "ticker": "URNM",
       "action": "BUY",
@@ -13460,6 +12260,18 @@
     },
     {
       "name": "John Boozman",
+      "ticker": "IVW",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-14",
+      "date": "Feb 14, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b6f24083-8ed9-4368-b482-3d14155c1e9b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
       "ticker": "MSFT",
       "action": "BUY",
       "value": "$1,001 - $15,000",
@@ -13468,6 +12280,30 @@
       "date": "Feb 14, 2025",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/6cf4a78e-92f0-4201-bf73-e9b02cd8f9ef/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "PFE",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b6f24083-8ed9-4368-b482-3d14155c1e9b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "DIS",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b6f24083-8ed9-4368-b482-3d14155c1e9b/",
       "source": "senate-efd"
     },
     {
@@ -13492,6 +12328,270 @@
       "date": "Feb 13, 2025",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/6cf4a78e-92f0-4201-bf73-e9b02cd8f9ef/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "VAW",
+      "action": "SELL",
+      "value": "$100,001 - $250,000",
+      "valueMid": 175001,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "LHX",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "STZ",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "LPLA",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "ACN",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "IQV",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "TJX",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "AMD",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "MSFT",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "AMZN",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "DHR",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "HON",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "PM",
+      "action": "BUY",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "BRK",
+      "action": "SELL",
+      "value": "$15,001 - $50,000",
+      "valueMid": 32501,
+      "dateISO": "2025-02-13",
+      "date": "Feb 13, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Tina Smith",
+      "ticker": "PEP",
+      "action": "SELL",
+      "value": "$100,001 - $250,000",
+      "valueMid": 175001,
+      "dateISO": "2025-02-11",
+      "date": "Feb 11, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/ec33423d-b244-4bc3-a96f-da77436cda11/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Tina Smith",
+      "ticker": "GIS",
+      "action": "SELL",
+      "value": "$100,001 - $250,000",
+      "valueMid": 175001,
+      "dateISO": "2025-02-11",
+      "date": "Feb 11, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/ec33423d-b244-4bc3-a96f-da77436cda11/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Ron L Wyden",
+      "ticker": "LLY",
+      "action": "SELL",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2025-02-10",
+      "date": "Feb 10, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f3e6926f-70d4-4265-9b81-68798dfc73bb/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Ron L Wyden",
+      "ticker": "IRBT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-06",
+      "date": "Feb 6, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f3e6926f-70d4-4265-9b81-68798dfc73bb/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Ron L Wyden",
+      "ticker": "SOLV",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-06",
+      "date": "Feb 6, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f3e6926f-70d4-4265-9b81-68798dfc73bb/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "LRCX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-05",
+      "date": "Feb 5, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b6f24083-8ed9-4368-b482-3d14155c1e9b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "JPM",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-05",
+      "date": "Feb 5, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b6f24083-8ed9-4368-b482-3d14155c1e9b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "BAC",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-05",
+      "date": "Feb 5, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b6f24083-8ed9-4368-b482-3d14155c1e9b/",
       "source": "senate-efd"
     },
     {
@@ -13544,6 +12644,18 @@
     },
     {
       "name": "John Boozman",
+      "ticker": "QSR",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-04",
+      "date": "Feb 4, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b6f24083-8ed9-4368-b482-3d14155c1e9b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
       "ticker": "AMZN",
       "action": "BUY",
       "value": "$1,001 - $15,000",
@@ -13576,6 +12688,126 @@
       "date": "Feb 4, 2025",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/2f191d07-0340-4367-ba29-a81216bb20e3/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "WAB",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-03",
+      "date": "Feb 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "PRMB",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-03",
+      "date": "Feb 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "MTZ",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-03",
+      "date": "Feb 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "LRN",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-03",
+      "date": "Feb 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "IRM",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-03",
+      "date": "Feb 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "GS",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-03",
+      "date": "Feb 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "DELL",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-03",
+      "date": "Feb 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "CRDO",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-03",
+      "date": "Feb 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "COHR",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-03",
+      "date": "Feb 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Markwayne Mullin",
+      "ticker": "AIT",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2025-02-03",
+      "date": "Feb 3, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/6826f825-671a-42f4-b367-0c7f571821e9/",
       "source": "senate-efd"
     },
     {
@@ -13660,6 +12892,18 @@
       "date": "Jan 22, 2025",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/5e2160d6-9770-4c7b-b65e-9b7794043d25/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Ron L Wyden",
+      "ticker": "LLY",
+      "action": "BUY",
+      "value": "$50,001 - $100,000",
+      "valueMid": 75001,
+      "dateISO": "2025-01-22",
+      "date": "Jan 22, 2025",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f3e6926f-70d4-4265-9b81-68798dfc73bb/",
       "source": "senate-efd"
     },
     {
@@ -13911,7 +13155,7 @@
       "dateISO": "2025-01-10",
       "date": "Jan 10, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b52d72ba-b052-42c7-9ced-2d0b392a1691/",
       "source": "senate-efd"
     },
     {
@@ -13923,7 +13167,7 @@
       "dateISO": "2025-01-10",
       "date": "Jan 10, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b52d72ba-b052-42c7-9ced-2d0b392a1691/",
       "source": "senate-efd"
     },
     {
@@ -13935,7 +13179,7 @@
       "dateISO": "2025-01-10",
       "date": "Jan 10, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b52d72ba-b052-42c7-9ced-2d0b392a1691/",
       "source": "senate-efd"
     },
     {
@@ -13947,7 +13191,7 @@
       "dateISO": "2025-01-10",
       "date": "Jan 10, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b52d72ba-b052-42c7-9ced-2d0b392a1691/",
       "source": "senate-efd"
     },
     {
@@ -13959,7 +13203,7 @@
       "dateISO": "2025-01-10",
       "date": "Jan 10, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b52d72ba-b052-42c7-9ced-2d0b392a1691/",
       "source": "senate-efd"
     },
     {
@@ -13971,7 +13215,7 @@
       "dateISO": "2025-01-10",
       "date": "Jan 10, 2025",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/d1afafd0-a78f-44ef-ae47-da99dfb01317/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/b52d72ba-b052-42c7-9ced-2d0b392a1691/",
       "source": "senate-efd"
     },
     {
@@ -14427,7 +13671,7 @@
       "dateISO": "2024-10-29",
       "date": "Oct 29, 2024",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/",
       "source": "senate-efd"
     },
     {
@@ -14439,7 +13683,7 @@
       "dateISO": "2024-10-29",
       "date": "Oct 29, 2024",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/",
       "source": "senate-efd"
     },
     {
@@ -14451,7 +13695,7 @@
       "dateISO": "2024-10-29",
       "date": "Oct 29, 2024",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/",
       "source": "senate-efd"
     },
     {
@@ -14463,7 +13707,7 @@
       "dateISO": "2024-10-29",
       "date": "Oct 29, 2024",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/",
       "source": "senate-efd"
     },
     {
@@ -14475,7 +13719,7 @@
       "dateISO": "2024-10-29",
       "date": "Oct 29, 2024",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/",
       "source": "senate-efd"
     },
     {
@@ -14487,7 +13731,7 @@
       "dateISO": "2024-10-29",
       "date": "Oct 29, 2024",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/",
       "source": "senate-efd"
     },
     {
@@ -14499,7 +13743,7 @@
       "dateISO": "2024-10-29",
       "date": "Oct 29, 2024",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/",
       "source": "senate-efd"
     },
     {
@@ -14511,7 +13755,7 @@
       "dateISO": "2024-10-29",
       "date": "Oct 29, 2024",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/",
       "source": "senate-efd"
     },
     {
@@ -14523,7 +13767,7 @@
       "dateISO": "2024-10-29",
       "date": "Oct 29, 2024",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/",
       "source": "senate-efd"
     },
     {
@@ -14535,7 +13779,7 @@
       "dateISO": "2024-10-29",
       "date": "Oct 29, 2024",
       "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b076d77-6bc1-4b67-8be9-8f45a787479f/",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/cce52b36-d00c-4710-a8ee-e84893fb4be1/",
       "source": "senate-efd"
     },
     {
@@ -14548,54 +13792,6 @@
       "date": "Oct 29, 2024",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/748ff789-e7a2-4d19-b631-fa023b718682/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Thomas H Tuberville",
-      "ticker": "AAPL",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2024-08-26",
-      "date": "Aug 26, 2024",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Thomas H Tuberville",
-      "ticker": "MDT",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2024-08-26",
-      "date": "Aug 26, 2024",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Thomas H Tuberville",
-      "ticker": "CVS",
-      "action": "SELL",
-      "value": "$1,001 - $15,000",
-      "valueMid": 8001,
-      "dateISO": "2024-08-26",
-      "date": "Aug 26, 2024",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/",
-      "source": "senate-efd"
-    },
-    {
-      "name": "Thomas H Tuberville",
-      "ticker": "UPS",
-      "action": "SELL",
-      "value": "$15,001 - $50,000",
-      "valueMid": 32501,
-      "dateISO": "2024-08-26",
-      "date": "Aug 26, 2024",
-      "sector": "Other",
-      "receipt": "https://efdsearch.senate.gov/search/view/ptr/2758f09a-fda9-4fb4-a465-270173a8125d/",
       "source": "senate-efd"
     },
     {
