@@ -1,11 +1,59 @@
 {
-  "generatedAt": "2026-11-17T08:30:32.714Z",
+  "generatedAt": "2026-11-17T21:21:44.528Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 278,
-  "filingsFailed": 1,
+  "filingsProcessed": 281,
+  "filingsFailed": 0,
   "filingsPaper": 30,
-  "tradeCount": 1405,
+  "tradeCount": 1409,
   "trades": [
+    {
+      "name": "John Boozman",
+      "ticker": "CMBS",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-21",
+      "date": "Oct 21, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "TLH",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-21",
+      "date": "Oct 21, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/21941188-c04d-4713-8e6f-d954918e93fd/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "HYBB",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-21",
+      "date": "Oct 21, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Boozman",
+      "ticker": "MBB",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-10-21",
+      "date": "Oct 21, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/06b7b716-bdc0-4c47-a4aa-96624e1e702c/",
+      "source": "senate-efd"
+    },
     {
       "name": "Shelley M Capito",
       "ticker": "ZTS",
