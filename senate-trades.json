@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T07:57:17.912Z",
+  "generatedAt": "2026-11-19T21:00:09.002Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 277,
-  "filingsFailed": 4,
+  "filingsProcessed": 281,
+  "filingsFailed": 0,
   "filingsPaper": 30,
-  "tradeCount": 1391,
+  "tradeCount": 1409,
   "trades": [
     {
       "name": "John Boozman",
@@ -2704,6 +2704,66 @@
       "date": "Mar 30, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/853d0789-28db-4789-9654-a73cff7740d7/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Fetterman",
+      "ticker": "MU",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-03-30",
+      "date": "Mar 30, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Fetterman",
+      "ticker": "MSFT",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-03-30",
+      "date": "Mar 30, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Fetterman",
+      "ticker": "ERIE",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-03-30",
+      "date": "Mar 30, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Fetterman",
+      "ticker": "GOOG",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-03-30",
+      "date": "Mar 30, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Fetterman",
+      "ticker": "AMZN",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-03-30",
+      "date": "Mar 30, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
       "source": "senate-efd"
     },
     {
@@ -6247,6 +6307,42 @@
       "source": "senate-efd"
     },
     {
+      "name": "John Fetterman",
+      "ticker": "T",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-03-27",
+      "date": "Mar 27, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Fetterman",
+      "ticker": "MSFT",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-03-27",
+      "date": "Mar 27, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "John Fetterman",
+      "ticker": "ERIE",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-03-27",
+      "date": "Mar 27, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8d93e30a-19a8-43a9-93d8-e95d629b1039/",
+      "source": "senate-efd"
+    },
+    {
       "name": "Shelley M Capito",
       "ticker": "FDS",
       "action": "SELL",
@@ -6487,6 +6583,18 @@
       "source": "senate-efd"
     },
     {
+      "name": "A. Mitchell McConnell, Jr.",
+      "ticker": "WFC",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-03-01",
+      "date": "Mar 1, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/8ee57a8c-076d-4e8b-bf04-061edaf0724e/",
+      "source": "senate-efd"
+    },
+    {
       "name": "John Boozman",
       "ticker": "AMAT",
       "action": "SELL",
@@ -6652,6 +6760,114 @@
       "date": "Feb 19, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/2b56957f-6859-43e2-a447-898509c7f142/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Angus S King, Jr.",
+      "ticker": "UBER",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-13",
+      "date": "Feb 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Angus S King, Jr.",
+      "ticker": "PYPL",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-13",
+      "date": "Feb 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Angus S King, Jr.",
+      "ticker": "ONON",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-13",
+      "date": "Feb 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Angus S King, Jr.",
+      "ticker": "NFLX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-13",
+      "date": "Feb 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Angus S King, Jr.",
+      "ticker": "MSFT",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-13",
+      "date": "Feb 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Angus S King, Jr.",
+      "ticker": "META",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-13",
+      "date": "Feb 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Angus S King, Jr.",
+      "ticker": "LLY",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-13",
+      "date": "Feb 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Angus S King, Jr.",
+      "ticker": "BX",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-13",
+      "date": "Feb 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Angus S King, Jr.",
+      "ticker": "ADSK",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-02-13",
+      "date": "Feb 13, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/09b9c1ed-1d73-4f17-b6f8-7b2d92021c5b/",
       "source": "senate-efd"
     },
     {
