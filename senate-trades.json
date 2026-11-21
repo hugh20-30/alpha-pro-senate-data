@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-11-20T20:44:55.447Z",
+  "generatedAt": "2026-11-21T07:43:06.509Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 281,
+  "filingsProcessed": 283,
   "filingsFailed": 0,
   "filingsPaper": 30,
-  "tradeCount": 1409,
+  "tradeCount": 1410,
   "trades": [
+    {
+      "name": "Rafael E Cruz",
+      "ticker": "GS",
+      "action": "SELL",
+      "value": "$250,001 - $500,000",
+      "valueMid": 375001,
+      "dateISO": "2026-11-11",
+      "date": "Nov 11, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/f0f7eba0-ca09-4b80-a97b-64b6dafb835e/",
+      "source": "senate-efd"
+    },
     {
       "name": "John Boozman",
       "ticker": "CMBS",
