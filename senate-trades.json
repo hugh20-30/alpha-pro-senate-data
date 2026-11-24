@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T10:27:14.209Z",
+  "generatedAt": "2026-11-24T22:47:01.341Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 283,
+  "filingsProcessed": 284,
   "filingsFailed": 0,
   "filingsPaper": 30,
-  "tradeCount": 1410,
+  "tradeCount": 1411,
   "trades": [
     {
       "name": "Rafael E Cruz",
@@ -16,6 +16,18 @@
       "date": "Nov 11, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/f0f7eba0-ca09-4b80-a97b-64b6dafb835e/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Richard Blumenthal",
+      "ticker": "STLN",
+      "action": "SELL",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-04",
+      "date": "Nov 4, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/9d3510cc-b11b-4777-a8a8-f0a58e886290/",
       "source": "senate-efd"
     },
     {
