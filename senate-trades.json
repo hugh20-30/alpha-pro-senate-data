@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T22:00:27.262Z",
+  "generatedAt": "2026-11-26T08:55:19.513Z",
   "source": "https://efdsearch.senate.gov",
-  "filingsProcessed": 284,
+  "filingsProcessed": 285,
   "filingsFailed": 0,
   "filingsPaper": 30,
-  "tradeCount": 1411,
+  "tradeCount": 1414,
   "trades": [
     {
       "name": "Rafael E Cruz",
@@ -16,6 +16,42 @@
       "date": "Nov 11, 2026",
       "sector": "Other",
       "receipt": "https://efdsearch.senate.gov/search/view/ptr/f0f7eba0-ca09-4b80-a97b-64b6dafb835e/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Rand Paul",
+      "ticker": "NVDA",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-09",
+      "date": "Nov 9, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Rand Paul",
+      "ticker": "NVDA",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-07",
+      "date": "Nov 7, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
+      "source": "senate-efd"
+    },
+    {
+      "name": "Rand Paul",
+      "ticker": "NVDA",
+      "action": "BUY",
+      "value": "$1,001 - $15,000",
+      "valueMid": 8001,
+      "dateISO": "2026-11-05",
+      "date": "Nov 5, 2026",
+      "sector": "Other",
+      "receipt": "https://efdsearch.senate.gov/search/view/ptr/99dc7269-2f99-4c8b-8d0c-a3a91328af84/",
       "source": "senate-efd"
     },
     {
